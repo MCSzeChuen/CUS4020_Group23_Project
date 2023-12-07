@@ -786,7 +786,7 @@ function update_display() {
           //dataset.lines[current_line].piece + ", " +
           dataset.lines[current_line].div1_nom
         + ", " + dataset.lines[current_line].div2_nom
-        + ", pos. " + dataset.lines[current_line].pos
+        + ", pos. " + dataset.lines[current_line].pos // pos = line
         ;
 
     // Afficher le texte...
