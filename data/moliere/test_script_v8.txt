@@ -1,0 +1,664 @@
+Character	Script
+ALADDIN	THE COMPLETE SCRIPT
+PEDDLER	Oh I come from a land
+JAFAR	You...are late.
+GAZEEM	"A thousand apologies, O patient one."
+JAFAR	"You have it, then?"
+GAZEEM	I had to slit a few throats to get it.  (Pulls out
+JAFAR	"Trust me, my pungent friend.  You'll get what's"
+IAGO	What's coming to you!  Awk!
+JAFAR	"Quickly, follow the trail!"
+JAFAR	"At last, after all my years of searching,  the cave"
+IAGO	Awk!  Cave of wonders!
+GAZEEM	By Allah!
+JAFAR	"Now, remember!  Bring me the lamp.  The rest of the"
+IAGO	"Awk, the lamp!  Awk,  the lamp!  (Now that IAGO and"
+CAVE	Who disturbs my slumber?
+GAZEEM	"It is I, Gazeem, a humble thief."
+CAVE	Know this.  Only one may enter here.  One whose
+JAFAR	What are you waiting for?  Go on!
+CAVE	"Seek thee out, the diamond in the rough."
+IAGO	I can't believe it.  I just don't believe it. We're
+JAFAR	"Patience, Iago.  Patience.  Gazeem was obviously"
+IAGO	"(Extremely sarcastically) Oh, there's a big"
+JAFAR	"Yes, we do.  Only one may enter.  I must find this"
+GUARD	"Stop, thief!  I'll have your hands for a trophy,"
+ALADDIN	"(Looks back, then down, then at the bread.)  All"
+ALADDIN	You think that was easy?
+ALADDIN	"Morning, ladies."
+ALADDIN	Trouble?  No way.  You're only in trouble if you
+ALADDIN	I'm in trouble!
+GUARD	"...and this time--(A screeching sound from ABU,"
+ALADDIN	"Perfect timing, Abu!"
+ABU	Hello!
+ALADDIN	"Come on, let's get outta here!"
+GUARDS	(one at a time) Riffraff! Street rat!
+ALADDIN	"Just a little snack, guys!"
+GUARDS	"Rip him open, take it back guys!"
+ALADDIN	"I can take a hint, gotta face the facts"
+WOMEN	Who?!?
+WOMAN	"I'd blame parents, except he hasn't got 'em!"
+ALADDIN	"Gotta eat to live, gotta steal to eat"
+CROWD	"Stop, thief! Vandal!"
+ALADDIN	Let's not be too hasty
+LADY	Still I think he's rather tasty
+GUARDS	WRONG!
+ALADDIN	One jump ahead of the hoofbeats!
+CROWD	Vandal!
+ALADDIN	One hop ahead of the hump!
+CROWD	Street rat!
+ALADDIN	One trick ahead of disaster
+CROWD	Scoundrel!
+ALADDIN	They're quick--but I'm much faster
+CROWD	Take that!
+ALADDIN	"Here goes, better throw my hand in"
+ALADDIN	"And now, esteemed effendi, we feast!  All right!"
+ABU	Uh-oh!
+ALADDIN	"Here, go on--take it."
+ABU	"Ah, don't.  Huh?"
+PRINCE	"Out of my way, you filthy brat!"
+ALADDIN	"Hey, if I were as rich as you, I could afford some manners"
+PRINCE	Oh--I teach you some manners!
+ALADDIN	"Look at that, Abu.  It's not every day you see a"
+PRINCE	You are a worthless street rat.  You were born a
+ALADDIN	I'm not worthless.  And I don't have fleas.  Come
+ALADDIN	"Riffraff, street rat."
+PRINCE	I've never been so insulted!
+SULTAN	"Oh, Prince Achmed.  You're not leaving so soon, are"
+PRINCE	Good luck marrying her off!
+SULTAN	"Oh, Jasmine!  Jasmine!  Jasmine!  (The SULTAN goes"
+JASMINE	"Oh, father.  Rajah was just playing with him,"
+SULTAN	"Dearest, you've got to stop rejecting every suitor"
+BOTH	...must be married to a prince.
+SULTAN	By your next birthday.
+JASMINE	The law is wrong.
+SULTAN	You've only got three more days!
+JASMINE	"Father,  I hate being forced into this.  (She takes"
+SULTAN	"Jasmine, it's not only this law.  (She hands him"
+JASMINE	Try to understand.  I've never done a thing on my
+SULTAN	"But Jasmine, you're a princess."
+JASMINE	Then maybe I don't want to be a princess.  (She
+SULTAN	Oooohhh!  Allah forbid you should have any
+SULTAN	I don't know where she gets it from.  Her mother
+JAFAR	"My life is but to serve you, my lord.  (He bows.)"
+SULTAN	It's this suitor business.  Jasmine refuses to
+IAGO	(In the parrot voice) Awk!  Wit's-end.
+SULTAN	"Oh, ha ha.  Have a cracker, pretty polly!  (He"
+JAFAR	Your majesty certainly has a way with dumb animals.
+SULTAN	"If anyone can help, it's you."
+JAFAR	"Ah, but it would require the use of the mystic blue"
+SULTAN	"Uh, my ring?  But it's been in the family for"
+JAFAR	It is necessary to find the princess a suitor.
+SULTAN	Everything...will be...fine.
+JAFAR	The diamond.
+SULTAN	"Here, Jafar. Whatever you need will be fine."
+JAFAR	"You are most gracious, my liege.  Now run along and"
+SULTAN	(Still hypnotized)  Yes...that'll be...pretty good.
+IAGO	I can't take it anymore!  If I gotta choke down on
+JAFAR	"Calm yourself, Iago."
+IAGO	Then I'd grab him around the head.  Whack! Whack!
+JAFAR	"(Speaking over IAGO.)  Soon, I will be sultan, not"
+IAGO	And then I stuff the crackers down his throat!  Ha
+JASMINE	"Oh, I'm sorry, Rajah.  But I can't stay here and"
+ALADDIN	"Okay, Abu.  Go!"
+PROPRIETOR	"(To passing crowd)  Try this, your taste buds"
+ABU	Blah blah blah!
+PROPRIETOR	"Why, you!  Get away from here, you filthy ape!"
+ABU	Bye bye!
+ALADDIN	Nice goin' Abu.  Breakfast is served.
+JASMINE	"I don't think so.  (She backs away, but bumps into"
+ALADDIN	(He's obviously deeply in love with her.)  Wow!
+ABU	Uh oh.  Hello?  Hello?
+JASMINE	"Oh, you must be hungry.  Here you go.  (The"
+PROPRIETOR	You'd better be able to pay for that.
+JASMINE	(Mystified) Pay?
+PROPRIETOR	No one steals from my cart!
+JASMINE	"Oh, I'm sorry sir.  I don't have any money."
+PROPRIETOR	Thief!
+JASMINE	"Please, if you let me go to the palace, I can"
+PROPRIETOR	Do you know what the penalty is for stealing?
+JASMINE	"No, no please!"
+ALADDIN	Thank you kind sir.  I'm so glad you've found
+JASMINE	(whispering) What are you doing?
+ALADDIN	(whispering back) Just play along.
+PROPRIETOR	You know this girl?
+JASMINE	"Sadly, yes.  She is my sister.  She's a little"
+PROPRIETOR	She said she knows the Sultan!
+ALADDIN	She thinks the monkey is the Sultan.
+JASMINE	"Oh, wise Sultan.  How may I serve you?"
+ABU	"Well, blah blah blah blah."
+ALADDIN	"Tragic, isn't it?  (He leans forward, picking"
+JASMINE	"(To a camel standing nearby) Oh, hello doctor."
+ALADDIN	"No, no, no. Not that one. (To ABU, whose"
+PROPRIETOR	Huh?  What is it?  (ABU picks up what he can
+IAGO	"(huffing and puffing)  With all due respect, your"
+JAFAR	"Save your breath, Iago.  Faster!  (He places the"
+IAGO	"Yes, o mighty evil one."
+JAFAR	"Ah, sands of time--reveal to me the one who can"
+IAGO	That's him?!?!   That's the clown we've been
+JAFAR	Let's have the guards extend him an invitation to
+IAGO	Swell.
+ALADDIN	Almost there.
+JASMINE	I want to thank you for stopping that man.
+ALADDIN	"Uh, forget it.  (He grabs a pole.)  So, uh, this is"
+JASMINE	Is it that obvious?
+ALADDIN	"Well, you do kinda stand out.  (He stares at her,"
+JASMINE	I'm a fast learner.
+ALADDIN	"Right.  C'mon, this way.  (They go inside the roof"
+JASMINE	Is this where you live?
+ALADDIN	Yep.  Just me and Abu.  Come and go as we please.
+JASMINE	Fabulous.
+ALADDIN	"Well, it's not much, (he pulls back the curtain and"
+JASMINE	"Oh, it's wonderful."
+ALADDIN	"I wonder what it would be like to live there, to"
+JASMINE	"Oh, sure.   People who tell you where to go and how"
+ALADDIN	It's better than here.  Always scraping for food
+JASMINE	You're not free to make your own choices.
+ALADDIN	Sometimes you feel so--
+JASMINE	You're just--
+BOTH	(in unison) --trapped.
+ALADDIN	"So, where're you from?"
+JASMINE	"What does it matter?  I ran away, and I am not"
+ALADDIN	Really?  (He takes a bite from the apple in his
+ABU	Why you!
+JASMINE	My father's forcing me to get married.
+ALADDIN	That's--that's awful.  (ABU appears from behind the
+JASMINE	What?
+ALADDIN	Abu says that--uh--that's not fair.
+JASMINE	Oh did he?
+ALADDIN	"Yeah, of course."
+JASMINE	And does Abu have anything else to say?
+ALADDIN	"Well, uh, he wishes there was something he could do"
+ABU	"Oh, boy!"
+JASMINE	"Hmm, tell him that's very sweet."
+GUARD	Here you are!
+JASMINE	They've found me!  (To each other) They're
+JASMINE	My father must have sent them--
+ALADDIN	Do you trust me?
+ALADDIN	Do you trust me? (He extends his hand)
+JASMINE	Yes. (She takes it.)
+ALADDIN	Then jump!
+GUARD	"We just keep running into each other, don't we,"
+GUARD	"It's the dungeon for you, boy."
+ALADDIN	"Hey, get off of me!"
+JASMINE	Let go of him.
+GUARD	(Not realizing she is the princess) Look what we
+JASMINE	(standing up and pulling off the hood of her cloak)
+GUARD	Princess Jasmine.
+ALADDIN	The princess?
+ABU	(peeking out from the vase) The princess?
+GUARD	What are you doing outside the palace?  And with
+JASMINE	That's not your concern.  Do as I command.  Release
+GUARD	"Well, I would, princess, but my orders come from"
+JASMINE	"(getting a very pissed-off look) Believe me, I"
+JASMINE	Jafar?
+JAFAR	"Oh, uh, princess."
+IAGO	"Awk! Jafar, I'm stuck!"
+JAFAR	How may I be of service to you? (He spreads out his
+JASMINE	"The guards just took a boy from the market, on your"
+JAFAR	Your father's charged me with keeping peace in
+JASMINE	What was the crime?
+IAGO	"I can't breathe, Jafar!"
+JAFAR	"Why, kidnapping the princess, of course."
+IAGO	If you could just--(JAFAR kicks him back inside the
+JASMINE	He didn't kidnap me! I ran away!
+JAFAR	"(Walking away as if shocked) Oh, dear!  Oh, why"
+JASMINE	What do you mean?
+JAFAR	"Sadly, the boy's sentence has already been carried"
+JASMINE	What sentence?
+JAFAR	(with a sinister tone)  Death.  (JASMINE gasps.)
+JASMINE	No!  (She collapses to the floor.)
+JAFAR	"I am exceedingly sorry, princess."
+JASMINE	How could you?  (She runs from the room crying.)
+IAGO	"So, how did  it go?"
+JAFAR	I think she took it rather well.  (They both get a
+JASMINE	"It's all my fault, Rajah.  I didn't even know his"
+ALADDIN	(to himself) She was the princess.  I don't believe
+ABU	(from a distance) Yoo-hoo!  Aladdin? Hello!
+ALADDIN	"Abu!  Down here!  Hey, c'mon--help me outta these."
+ALADDIN	"Hey, she was in trouble.  Ah, she was worth it."
+ABU	"Yeah, yeah, yeah."
+ALADDIN	"Don't worry, Abu.  I'll never see her again.  I'm a"
+ABU	Ta da!
+ALADDIN	(Rubbing his wrists) I'm a--I'm a fool
+OLD MAN	"You're only a fool if you give up, boy."
+ALADDIN	Who are you?
+OLD MAN	"A lowly prisoner, like yourself.  But together,"
+ALADDIN	I'm listening.
+OLD MAN	"There is a cave, boy.  A cave of wonders.  Filled"
+IAGO	"Jafar, can ya hurry it up?  I'm dyin' in here!"
+ALADDIN	But the law says that only a prince can marry--
+OLD MAN	"You've heard of the golden rule, haven't you boy?"
+ALADDIN	So why would you share all of this wonderful
+OLD MAN	I need a young man with strong legs and a strong
+ALADDIN	"Ah, one problem.  It's out there, we're in here?"
+OLD MAN	"Mmm, mmm, mmm.,  Things aren't always what they"
+ABU	"Oh, hmm."
+ALADDIN	"It is I, Aladdin."
+CAVE	Proceed.  Touch nothing but the lamp.
+OLD MAN	"Remember, boy--first fetch me the lamp, and then"
+ALADDIN	"C'mon, Abu.  (to ABU hiding under the shoulder of"
+ALADDIN	Would ya look at that!
+ABU	Uh oh!
+ALADDIN	Just a handful of this stuff would make me richer
+ALADDIN	Abu!
+ALADDIN	Don't...touch...anything!  We gotta find that lamp.
+ABU	Huh?
+ABU	Aladdin!  Aladdin!
+ALADDIN	"Abu, will ya knock it off?"
+ALADDIN	"Abu, what are you--crazy?"
+ALADDIN	A magic carpet!  C'mon.  C'mon out.  I'm not gonna
+ALADDIN	"Take it easy, Abu.  He's not gonna bite."
+ALADDIN	"Hey, wait a minute.  Don't go.  Maybe you can help"
+ALADDIN	Wait here!
+ABU	Oh.  Huh?
+ALADDIN	This is it?  This is what we came all the way down
+CAVE VOICE	Infidels!
+CAVE VOICE	You have touched the forbidden treasure.  (ABU
+ALADDIN	"Whoa!  Carpet, let's move!"
+ALADDIN	"Abu, this is no time to panic!  (He pulls ABU off"
+ALADDIN	Help me out!
+OLD MAN	Throw me the lamp!
+ALADDIN	I can't hold on.  Give me your hand.
+OLD MAN	First give me the lamp!
+OLD MAN	Ha ha ha ha!  Yes!  At last!  Ha ha ha ha!
+ALADDIN	What are you doing?
+OLD MAN	Giving you your reward.  (JAFAR returns to his
+JAFAR	Heh heh heh! It's mine.  It's all mine! I (He can't
+SULTAN	"Jasmine?  Oh, dearest.  What's wrong?"
+JASMINE	Jafar...has...done something... terrible.  (She
+SULTAN	"There, there, there, my child--we'll set it right."
+ABU	"Oh, oh. Aladdin?  Wake up.  Aladdin."
+ALADDIN	"Oh, my head. (He looks at the entrance sealed in.)"
+ABU	Aha!
+ALADDIN	"Why, you hairy little thief!  Looks like such a"
+GENIE	Aaaaahhhhh!  OY!  Ten-thousand years will give ya
+ALADDIN	"Uh, Al--uh--Aladdin."
+GENIE	(Says his name as if he's discovered something
+ALADDIN	(Shaking his head) I must have hit my head harder
+GENIE	(Still a dog) Do you smoke?  Mind if I do? (Dog
+ALADDIN	Wait a minute!  I'm--your master?
+GENIE	(Slaps a diploma in ALADDIN's hand and a
+GENIES	"Duplicated, duplicated,  duplicated,"
+GENIE	(Says it like a ring announcer at a boxing match.)
+ALADDIN	Whoa!  Wish fulfillment?
+GENIE	Three wishes to be exact.  And ix-nay on the
+ALADDIN	(To ABU) Now I know I'm dreaming.
+GENIE	"(Music for ""Friend Like Me"" begins) Master, I don't"
+GENIE	"So what'll it be, master?"
+ALADDIN	You're gonna grant me any three wishes I want?
+GENIE	"(As William F. Buckley) Ah, almost.  There are a"
+ALADDIN	Like?
+GENIE	"Ah, rule number one:     I can't kill anybody.  (He"
+ALADDIN	"(Looks at ABU as if plotting) Ah, provisos?  You"
+GENIE	Excuse me?  Are you lookin' at
+SULTAN	"Jafar, this is an outrage.  If it weren't for all"
+JAFAR	"I assure you, your highness, it won't happen again."
+SULTAN	"Jasmine, Jafar, now let's put this whole messy"
+JAFAR	My most abject and humblest apologies to you as
+JASMINE	At least some good will come of my being forced to
+SULTAN	"That's nice.  All settled, then.  Now, Jasmine,"
+JAFAR	If only I had gotten that lamp!
+IAGO	(As JASMINE) I will have the power to get rid of
+JAFAR	"No, Iago.  Only until she finds a chump husband."
+BOTH	Eeewww!
+IAGO	(Has an idea) Oh!  Wait a minute!  Wait a minute!
+JAFAR	(He looks at IAGO in insult)  What?
+IAGO	"Okay, you marry the princess,all right? Then, uh,"
+JAFAR	Oh!Marry the shrew?  I become sultan.  The idea has
+IAGO	"Yes, merit! Yes!  And then we drop papa-in-law and"
+JAFAR	"Iago, I love the way your foul little mind works!"
+GENIE	(Still as stewardess) Thank you for choosing Magic
+ALADDIN	"Oh, you sure showed me.  Now about my three wishes-"
+GENIE	Dost mine ears deceive me?  Three? You are down by
+ALADDIN	"Ah, no--I never actually wished to get out of the"
+GENIE	"Well, don't I feel just sheepish?  All right, you"
+ALADDIN	"Fair deal.  So, three wishes.  I want them to be"
+GENIE	"Me?  No one's ever asked me that before. Well, in"
+ALADDIN	"What?  No, tell me."
+GENIE	Freedom.
+ALADDIN	You're a prisoner?
+GENIE	"It's all part-and-parcel, the whole genie gig."
+ALADDIN	"Genie, that's terrible."
+GENIE	"(Comes out of the LAMP) But, oh--to be free.  Not"
+ALADDIN	Why not?
+GENIE	The only way I get outta this is if my master
+ALADDIN	I'll do it. I'll set you free.
+GENIE	(Head turns into Pinocchio's with a long nose) Uh
+ALADDIN	"No, really, I promise.  (He pushes the nose back in"
+GENIE	"Well, here's hopin'.  (Shakes ALADDIN's hand.)"
+ALADDIN	"Well, there's this girl--"
+GENIE	"Eehhh! (Like a buzzer, and GENIE's chest shows a"
+ALADDIN	"Oh, but Genie.  She's smart and fun and..."
+GENIE	Pretty?
+ALADDIN	Beautiful.  She's got these eyes that just...and
+GENIE	(Sitting in a Parisian cafe with ABU and CARPET.)
+ALADDIN	"But she's the princess.  To even have a chance, I'd"
+GENIE	"Let's see here.  (Has a ""Royal Cookbook"".) Uh,"
+ALADDIN	"Genie, I wish for you to make me a prince!"
+GENIE	All right!  Woof woof woof woof! (Takes on square
+GENIE	"Here he comes, (ALADDIN and GENIE are on a game"
+ALADDIN	"Abu, you look good."
+GENIE	"He's got the outfit, he's got the elephant, but"
+JAFAR	"Sire, I have found a solution to the problem with"
+IAGO	Awk!  The problem with your daughter!
+SULTAN	"Oh, really?"
+JAFAR	"(Unrolling a scroll) Right here.  ""If the princess"
+SULTAN	But Jasmine hated all those suitors!  (He tries to
+JAFAR	"Not to worry, my liege.  There is more.  If, in the"
+SULTAN	What?  Who?
+JAFAR	"The royal vizier!  Why, that would be...me!"
+SULTAN	"Why, I thought the law says that only a prince can"
+JAFAR	"Desperate times call for desperate measures, my"
+SULTAN	Yes...desperate measures...
+JAFAR	You will order the princess to marry me.
+SULTAN	I...will order...the princess...to...(the spell
+JAFAR	(Holds the staff closer) The princess will marry
+SULTAN	The princess will marry...(the spell is again
+MARCHERS	Make way for Prince Ali!
+SWORDSMEN	Say hey!  It's Prince Ali!
+MAJOR	"Hey, clear the way in the old bazaar,"
+CHORUS OF MEN	(Carrying the camels) He's got seventy-five golden camels!
+HARRY	"Don't they look lovely, June?"
+CHORUS OF WOMEN	"(On a float)  Purple peacocks, he's got fifty-three!"
+JUNE	"Fabulous, Harry, I love the feathers!"
+GENIE	"(GENIE is off screen, a giant balloon gorilla proceeds down"
+GENIE	GIRLS:     (in couterpoint)
+CHORUS	He's got ninety-five white Persian monkeys!
+GENIE	Prince Ali!
+SULTAN	"(Clapping) Splendid, absolutely marvelous."
+ALADDIN	"(Takes on a deeper voice.)  Ahem.  Your majesty, I have"
+SULTAN	Prince Ali Ababwa!  Of course.  I'm delighted to
+JAFAR	"(Extremely dryly) Ecstatic.  I'm afraid, Prince"
+ALADDIN	--Ababwa!
+JAFAR	Whatever.  You cannot just parade in here uninvited
+SULTAN	"...by Allah, this is quite a remarkable device."
+ALADDIN	"Why certainly, your majesty.  Allow me."
+JAFAR	"Sire, I must advise against this--"
+SULTAN	#NAME?
+JAFAR	Just where did you say you were from?
+ALADDIN	"Oh, much farther than you've traveled, I'm sure."
+JAFAR	Try me.  (IAGO lands on the staff.)
+SULTAN	"Look out, Polly!"
+IAGO	"Hey, watch it. Watch it with the dumb rug!"
+SULTAN	"Out of the way, I'm coming in to land.  Jafar,"
+JAFAR	"Spectacular, your highness."
+SULTAN	"Ooh, lovely.  Yes, I do seem to have a knack for"
+JAFAR	"I don't trust him, sire."
+SULTAN	"Nonsense.  One thing I pride myself on Jafar, I'm"
+IAGO	"Oh, excellent judge, yeah, sure...not!!!"
+SULTAN	Jasmine will like this one!
+ALADDIN	And I'm pretty sure I'll like Princess Jasmine!
+JAFAR	"Your highness, no.  I must intercede on Jasmine's"
+ALADDIN	"Your majesty, I am Prince Ali Ababwa! (He pricks"
+JASMINE	How dare you!  (They all look at her surprised.)
+SULTAN	"Oh, dear.  Don't worry, Prince Ali.  Just give"
+JAFAR	I think it's time to say good bye to Prince
+ALADDIN	What am I going to do?  Jasmine won't even let me
+GENIE	"(to carpet, playing chess) So move!  (CARPET does,"
+ALADDIN	"Genie, I need help."
+GENIE	"(as Jack Nicholson) All right, sparky, here's the"
+GENIE	"(Back to normal, wearing a mortarboard. He points"
+ALADDIN	No way!  If Jasmine found out I was really some
+GENIE	A woman appreciates a man who can make her laugh!
+ALADDIN	"Hey, that's the last thing I want to  be.  Okay,"
+GENIE	(Sadly) Like a prince.
+ALADDIN	(From a distance) Princess Jasmine?
+JASMINE	Who's there?
+ALADDIN	It's me--Prince Ali.  Ahem--(Then he jumps to his
+JASMINE	I do not want to see you.
+ALADDIN	"No, no, please princess.  Give me a chance. (RAJAH"
+JAFAR	Just leave me alone.
+ALADDIN	Down kitty!
+GENIE	How's our beau doing?
+ALADDIN	"Good kitty, take off.  Down kitty. (He takes off"
+JASMINE	(She looks at him thinking she has seen him
+ALADDIN	"(Quickly replaces his turban) Uh, no, no."
+JASMINE	You remind me of someone I met in  the marketplace.
+ALADDIN	The marketplace?  (A bee buzzes around his head.)
+JASMINE	"(She looks disappointed.)  No, I guess not."
+BEE	"(It's the GENIE) Enough about you, Casanova.  Talk"
+ALADDIN	"Um, Princess Jasmine?  You're very..."
+BEE	"Wonderful, glorious, magnificent, punctual!"
+ALADDIN	Punctual!
+JASMINE	Punctual?
+BEE	Sorry.
+ALADDIN	Beautiful.
+BEE	Nice recovery.
+JASMINE	"Hmm.  I'm rich too, you know."
+ALADDIN	Yeah!
+JASMINE	The daughter of a sultan
+ALADDIN	I know.
+JASMINE	A fine prize for any  prince to marry.
+ALADDIN	"Uh, right.  Right.  A prince like me."
+BEE	(Buzzing in his ear) Warning! Warning!
+JASMINE	"Right, a prince like you.  And every other stuffed  shirt,"
+BEE	"(Rear end on fire, wearing goggles and crashing) Mayday!"
+JASMINE	Just go jump off a balcony! (She turns and walks away)
+BEE	Stop her! Stop her! Do you want me to sting her?
+ALADDIN	(Swats at bee) Buzz off!
+BEE	"Okay, fine.  But remember--bee yourself! (BEE buzzes into"
+ALADDIN	"Yeah, right!"
+JASMINE	What!?!
+ALADDIN	"Uh, you're right.  You aren't just some prize to be"
+JASMINE	No!
+ALADDIN	(Pokes his head up from over the edge) What?  What?
+JASMINE	(Now she's amazed) How--how are you doing that?
+ALADDIN	It's a magic carpet.
+JASMINE	It's lovely.  (CARPET takes JASMINE's hand with a
+ALADDIN	"You, uh, you don't want to go for a ride, do you?"
+JASMINE	Is it safe?
+ALADDIN	Sure.  Do you trust me?
+JASMINE	(She looks at him at the saying of that all-
+ALADDIN	(Extends his hand the same as before) Do you trust
+JASMINE	(Gets a sly grin on her face) Yes.
+ALADDIN	I can show you the world
+JASMINE	A whole new world
+ALADDIN	Now I'm in a whole new world with you!
+JASMINE	Unbelievable sights
+JASMINE	A whole new world!
+ALADDIN	Don't you dare close your eyes
+JASMINE	An hundred thousand things to see
+ALADDIN	Hold your breath--it gets better!
+JASMINE	"I'm like a shooting star,"
+JASMINE	Every turn a surprise
+ALADDIN	With new horizons to pursue
+JASMINE	"Every moment, red-letter"
+BOTH	I'll chase them anywhere
+ALADDIN	A thrilling chase
+JASMINE	A wondrous place
+BOTH	For you and me!
+JASMINE	It's all so magical.
+ALADDIN	Yeah.
+JASMINE	(She looks at him and decides to burst the bubble)
+ALADDIN	Nah.  He hates fireworks.  (CARPET looks up
+JASMINE	(She pulls off his turban) You are the boy from the
+ALADDIN	"Jasmine, I'm sorry."
+JASMINE	Did you think I was stupid?
+JASMINE	That I wouldn't figure it out?
+ALADDIN	"No.  I mean, I hoped you wouldn't.  No, that's not"
+JASMINE	Who are you?  Tell me the truth!
+ALADDIN	"The truth? (He looks at CARPET who wave him on,"
+JASMINE	Why didn't you just tell me?
+ALADDIN	"Well, you know, um...royalty going out into the"
+JASMINE	Not that strange.
+JASMINE	"Good night, my handsome prince."
+ALADDIN	"Sleep well, princess."
+ALADDIN	"Yes!  (He falls back onto the CARPET, who descends"
+ALADDIN	Hey!  What?  (A gag is tied around his mouth.
+GUARD	Hold him!
+JAFAR	"I'm afraid you've worn out your welcome, Prince"
+GENIE	Never fails.  Get in the bath and there's a rub at
+ALADDIN	"Genie, I--uh, I-uh...(He can't think of how to say"
+GENIE	"Oh, Al.  I'm gettin' kind of fond of you, kid.  Not"
+SULTAN	Jasmine!
+JASMINE	"Oh, father--I just had the most wonderful time."
+SULTAN	"(Still monotone from the hypnosis) You should be,"
+SULTAN	(The other door opens and reveals JAFAR.)  You will
+JAFAR	"You're speechless, I see.  A fine quality in a"
+JASMINE	I will never marry you.  (She goes to the SULTAN)
+JAFAR	Prince Ali left!
+ALADDIN	"Better check your crystal ball  again, Jafar!"
+IAGO	"How in the he--(back to parrot-ese)--uh, awk!"
+ALADDIN	"Tell them the truth, Jafar!  You tried to have me"
+JAFAR	What?  (He goes to the SULTAN)  Ridiculous
+SULTAN	Obviously...lying.
+JASMINE	"Father, what's wrong with you?"
+ALADDIN	I know!
+SULTAN	"Oh, oh, oh my!"
+ALADDIN	"Your highness, Jafar's been controlling you with"
+SULTAN	"What?  Jafar?  You, you traitor!"
+JAFAR	"Your majesty, all of this can be explained."
+SULTAN	Guards! Guards!
+IAGO	"Well, that's it--we're dead, forget about it.  Just"
+SULTAN	Arrest Jafar at once.
+JAFAR	"This is not done yet, boy!"
+SULTAN	"Find him, search everywhere!"
+ALADDIN	"Jasmine, are you all right?"
+JASMINE	Yes.
+SULTAN	"Jafar, my most trusted counselor, plotting against"
+ALADDIN	Sultan?
+SULTAN	"Yes, a fine upstanding youth like yourself, a"
+IAGO	We gotta get outta here!  We gotta get--  I gotta
+JAFAR	Prince Ali is nothing more than that ragged urchin
+IAGO	Why that miserable--
+JAFAR	But you are going to relieve him of it!
+IAGO	Me?
+ALADDIN	Sultan?  They want me to be sultan?
+GENIE	Huzzah!  Hail the conquering hero!  (Turns into a
+ALADDIN	Genie...I can't.
+GENIE	"Sure you can.  You just go ""Genie, I wish you"
+ALADDIN	"I'm serious.  Look, I'm sorry--I really am. But"
+GENIE	"Al, you won!"
+ALADDIN	Because of you!  The only reason anyone thinks I'm
+GENIE	"(Sarcastically) Hey, I understand.  After all,"
+ABU	Ohhh.
+ALADDIN	"Genie, I'm really sorry. (A tongue comes out of the"
+JASMINE	"(From a distance)  Ali, oh Ali--will you come here?"
+ALADDIN	"(Putting on his turban) Well, here goes.  (He walks"
+IAGO	"Ahem--In the menagerie, hurry."
+ALADDIN	I'm coming.
+FLAMINGO	D'uh!
+IAGO	"Ya got a problem, pinky?  (He sweeps the bird's"
+SULTAN	"People of Agrabah, My daughter has finally chosen a"
+ALADDIN	Jasmine?
+JASMINE	"Ali, where have you been?"
+ALADDIN	There's something I've got to tell you.
+JASMINE	The whole kingdom has turned out for father's
+ALADDIN	"No! But Jasmine, listen to me, please!"
+JASMINE	Good luck!  (She pushes him out onto the platform
+SULTAN	...Ali Ababwa!
+IAGO	"Look at them, cheering that little pipsqueak."
+JAFAR	Let them cheer.
+GENIE	"You know Al, I'm getting (turns and sees JAFAR)"
+JAFAR	I am your master now.  (He throws GENIE to the
+GENIE	I was afraid of that.
+JAFAR	"Genie, grant me my first wish.  I wish to rule on"
+ALADDIN	Whoa!
+SULTAN	Bless my soul.  What is this?  What is going on?
+JAFAR	Heh heh heh!
+SULTAN	"Jafar, you vile betrayer."
+IAGO	That's Sultan Vile Betrayer to you.
+ALADDIN	"Oh, yeah?  Well, we'll just see about that!  (Pulls"
+JAFAR	"Finders-keepers, Abooboo."
+ALADDIN	Genie!  No!
+GENIE	"Sorry, kid--I got a new master now.  (He places the"
+SULTAN	"Jafar, I order you to stop!"
+JAFAR	"There's a new order now--my order!  Finally, you"
+JAFAR	We'll never bow to you!
+IAGO	Why am I not surprised?
+JAFAR	"If you will not bow before a sultan, then you will"
+IAGO	"Ladies and gentlemen, a warm Agrabah welcome for"
+JAFAR	"Now where were we?  Ah, yes--abject humiliation!"
+ALADDIN	(off-camera) Jafar!  Get your hands off her!
+JAFAR	Prince Ali
+IAGO	Or should we say Aladdin?
+ALADDIN	"Jasmine, I tried to tell you."
+JAFAR	So Ali turns out to be merely Aladdin
+IAGO	"Good bye, see ya!"
+JAFAR	Ex-Prince Ali!
+ALADDIN	Abu?  Abu!  (He looks back at a shivering pile of
+IAGO	Puppet ruler want a cracker? Here's your cracker.
+JAFAR	Leave him alone!
+JAFAR	"It pains me to see you reduced to this, Jasmine."
+JASMINE	Never!
+JAFAR	I'll teach you some respect! (She falls back as he
+GENIE	"(Again as Buckley) Ah, master-- there are a few"
+JAFAR	"Don't talk back to me, you stupid blue lout!  You"
+JASMINE	(She stands and puts the crown on her head.)
+JAFAR	That's better.  (He pulls the GENIE's jaw up like a
+JASMINE	"You're tall, well dressed..."
+GENIE	"Al!  Al, little buddy!"
+ALADDIN	Shh!
+GENIE	"(Literally zips his mouth shut, then unzips it.)"
+ALADDIN	"Hey--I'm a street rat, remember? (He rezips GENIE's"
+JAFAR	Go on.
+JASMINE	And your beard...is so...twisted!  (She has her
+IAGO	Jaf--mmmmmm! (ABU grabs him and covers his mouth.)
+JAFAR	And the street rat?
+JASMINE	What street rat?
+ABU	Yuck!
+JAFAR	That was--(he sees ALADDIN's reflection in her
+ALADDIN	Get the lamp!
+JAFAR	"Ah, ah, ah, princess--Your time is up!"
+IAGO	"Oh, nice shot, Jaf-- (he is knocked out by ABU.)"
+JAFAR	Don't toy with me!  (He's zapped into a toy monkey.
+JAFAR	"Things are unraveling fast, now boy. (CARPET is"
+ALADDIN	"Are you afraid to fight me yourself, you cowardly"
+JAFAR	"A snake, am I?  Perhaps you'd like to see how"
+GENIE	"Rickem, rockem, rackem, rake--stick that sword into"
+JAFAR	You stay out of thissss!
+GENIE	"(Weakly) Jafar, Jafar, he's our man--if he can't do it,"
+JASMINE	Aladdin!
+ALADDIN	"Hang on, Jasmine!"
+JAFAR	(laughs hideously)  You little fool!  You thought
+IAGO	"(with GENIE coming up behind him) Squeeze him,"
+JAFAR	"Without the genie, boy, you're nothing!"
+ALADDIN	(Has an idea)  The genie!  The genie!  The genie
+JAFAR	What!!
+ALADDIN	"He gave you your power, he can take it away!"
+GENIE	"Al, what are you doing?  Why are you bringing me"
+ALADDIN	"Face it, Jafar--you're still just second best!"
+JAFAR	You're right!  His power does exceed my own!  But
+GENIE	The boy is crazy.  He's a little punch drunk.  One
+JAFAR	"Slave, I make my third wish!  I wish to be an all"
+GENIE	"(Reluctantly) All right, your wish is my command."
+JAFAR	Yes!  Yes!  The power! The absolute power!
+JASMINE	(to ALADDIN) What have you done?
+ALADDIN	Trust me!
+JAFAR	"The universe is mine to command, to control!"
+ALADDIN	"Not so fast, Jafar!  Aren't you forgetting something?"
+JAFAR	No!  No!
+IAGO	"I'm gettin' out of here!  Come on, you're the"
+ALADDIN	Phenomenal cosmic powers!  Itty bitty living space.
+GENIE	"Al, you little genius, you!"
+JAFAR	(Both from inside the lamp.)  Get your blasted beak
+IAGO	"Oh, shut up, you moron!"
+JAFAR	Don't tell me to shut up!
+GENIE	Allow me.  (He takes the lamp and goes to the
+ALADDIN	"Jasmine, I'm sorry I lied to you about being a"
+JASMINE	I know why you did.
+ALADDIN	"Well, I guess...this... is goodbye?  (GENIE pokes"
+JASMINE	"Oh, that stupid law.  This isn't fair--I love you."
+GENIE	"(Wipes away a tear)  Al, no problem. You've still"
+ALADDIN	"But Genie, what about your freedom?"
+GENIE	"Hey, it's only an eternity of servitude.  This is"
+ALADDIN	"Jasmine, I do love you, but I've got to stop"
+JASMINE	I understand.
+ALADDIN	"Genie, I wish for your freedom."
+GENIE	One bona fide prince pedigree coming up.  I--what?
+ALADDIN	"(He holds the lamp up to GENIE.)  Genie, you're"
+GENIE	"(He can't believe it.)  Heh, heh!  I'm free. I'm"
+ALADDIN	I wish for the Nile.
+GENIE	No way!!  (Laughs hysterically.  He bounces around
+ALADDIN	"Genie, I'm--I'm gonna miss you."
+GENIE	"Me too, Al.  No matter what anybody says, you'll"
+SULTAN	That's right.  You've certainly proven your worth
+JASMINE	Father?
+SULTAN	"Well, am I sultan or am I sultan?  From this day"
+JASMINE	(She smiles widely and runs into ALADDIN's arms.)
+ALADDIN	"Ha, ha.  Call me Al."
+GENIE	"Oh, all of ya. Come over here.  Big group hug!"
+JASMINE	A whole new life
+BOTH	(with off-camera chorus)    For you and me!
+GENIE	Made ya look!

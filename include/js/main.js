@@ -6,6 +6,7 @@ const scaling_for = {
     "author=moliere&play=l_ecole_des_femmes": 1.8,
     "author=moliere&play=le_medecin_malgre_lui": 1.7,
     "author=moliere&play=testing_test": 1.7,
+    "author=moliere&play=test_script": 1.7,
     "author=moliere&play=le_misanthrope": 1.8,
     "author=jean_racine&play=phedre": 2,
 };
