@@ -1,4 +1,5 @@
 ﻿piece	div1_nom	div1_num	div2_nom	div2_num	pos	id	nom	texte	didascalie
+Test, COMÉDIE	ACT I	1	SCENE I	1	0	NARRATION	NARRATION	Testing script show without character network 	
 Test, COMÉDIE	ACT I	1	SCENE I	1	1	NARRATION	NARRATION	Hé quoi ? Charmante Élise, vous devenez mélancolique, après les obligeantes assurances que vous avez eu la bonté de me donner de votre foi ? Je vous vois soupirer, hélas ! Au milieu de ma joie ! Est-ce du regret, dites-moi, de m'avoir fait heureux, et vous repentez-vous de cet engagement où mes feux ont pu vous contraindre ? 	
 Test, COMÉDIE	ACT I	1	SCENE I	1	2	ELISE	ÉLISE	Non, Valère, je ne puis pas me repentir de tout ce que je fais pour vous. Je m'y sens entraîner par une trop douce puissance, et je n'ai pas même la force de souhaiter que les choses ne fussent pas. Mais, à vous dire vrai, le succès me donne de l'inquiétude ; et je crains fort de vous aimer un peu plus que je ne devrais. 	
 Test, COMÉDIE	ACT I	1	SCENE I	1	3	VALERE	VALÈRE	Hé ! Que pouvez-vous craindre, Élise, dans les bontés que vous avez pour moi ? 	
