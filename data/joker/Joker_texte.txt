@@ -1,0 +1,36 @@
+piece	div1_nom	div1_num	div2_nom	div2_num	pos	id	nom	texte	didascalie
+Joker	ACT I	1	SCENE I	1	1	NARRATION	NARRATION	"INT. DEPT. OF HEALTH, OFFICE - MORNING"	
+Joker	ACT I	1	SCENE I	1	2	NARRATION	NARRATION	"CLOSE ON JOKER (30's), tears in his eyes from laughing so hard. He's trying to get it under control. His greasy, black hair is matted down. He's wearing an old, faded red hooded zip-up sweatshirt, a threadbare gray scarf, thin from years of use, hangs loosely around his neck.
+
+WE NOTICE TWO FADED OLD SCARS cut at the corners of his mouth. Almost forming a smile.
+
+He's sitting across from an overworked SOCIAL WORKER (50's), African American. Her office is cramped and run-down in a cramped and run-down building. Stacks of folders piled high in front of her.
+
+She just sits behind her desk, waiting for his laughing fit to end, she's been through this before. Finally it subsides.
+
+Joker takes a deep breath, pauses to see if it's over.
+
+Beat."	
+Joker	ACT I	1	SCENE I	1	3	JOKER	JOKER	#NAME?	
+Joker	ACT I	1	SCENE I	1	4	NARRATION	NARRATION	"Despite the laughter, there's real pain in his eyes.
+Something broken in him. Looks like he hasn't slept in days."	
+Joker	ACT I	1	SCENE I	1	5	SOCIAL WORKER	SOCIAL WORKER	"It's certainly tense. People are upset, they're struggling. Looking for work. The garbage strike seems like it's been going on forever. These are tough times.
+(then)
+How 'bout you. How's the job? Still enjoying it?"	
+Joker	ACT I	1	SCENE I	1	6	JOKER	JOKER	"Yeah, I   mean, it's different each day, so  I really like that. I don't think I   could ever work in an office.   Behind a desk."	
+Joker	ACT I	1	SCENE 2	2	7	JOKER	JOKER	No offense.	
+Joker	ACT I	1	SCENE 2	2	8	NARRATION	NARRATION	"She smiles. Writes something down. Looks at the clock, she's running late for her next appointment."	
+Joker	ACT I	1	SCENE 2	2	9	SOCIAL WORKER	SOCIAL WORKER	Have you been keeping up with your journal?	
+Joker	ACT I	1	SCENE 2	2	10	JOKER	JOKER	Everyday.	
+Joker	ACT I	1	SCENE 2	2	11	SOCIAL WORKER	SOCIAL WORKER	Great. Did you bring it with you?	
+Joker	ACT I	1	SCENE 2	2	12	JOKER	JOKER	"(dodging the subject)
+I'm sorry. Did I bring what?"	
+Joker	ACT I	1	SCENE 2	2	13	SOCIAL WORKER	SOCIAL WORKER	"(impatient; she doesn't have time for this)
+Arthur, last time I asked you to bring your journal with you. For these appointments. Do you have it?"	
+Joker	ACT I	1	SCENE 2	2	14	JOKER	JOKER	Yes ma'am.	
+Joker	ACT I	1	SCENE 2	2	15	SOCIAL WORKER	SOCIAL WORKER	Can I see it?	
+Joker	ACT I	1	SCENE 2	2	16	NARRATION	NARRATION	He reluctantly reaches into his bag. Pulls out a weathered notebook. Slides it across to her--	
+Joker	ACT I	1	SCENE 2	2	17	JOKER	JOKER	"I've been using it as a journal, but also a joke diary. Funny thoughts or, or observations-- Did I tell you I'm pursuing a career in stand-up comedy?"	
+Joker	ACT I	1	SCENE 2	2	18	NARRATION	NARRATION	She's half-listening as she flips through his journal.	
+Joker	ACT I	1	SCENE 2	2	19	SOCIAL WORKER	SOCIAL WORKER	No. You didn't.	
+Joker	ACT I	1	SCENE 2	2	20	JOKER	JOKER	I think I did.	
