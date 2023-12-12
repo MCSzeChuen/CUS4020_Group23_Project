@@ -3,7 +3,8 @@
 // Play scaling factors...
 const scaling_for = {
     "author=joker&play=Joker": 2,
-    "author=disney&play=testing_test": 2,
+    "author=disney&play=testing_test": 1.7,
+    "author=moliere&play=l_avare": 2,
     // "author=disney&play=test_script_v8": 1.8,
     // "author=moliere&play=l_avare": 2,
     // "author=moliere&play=l_ecole_des_femmes": 1.8,
