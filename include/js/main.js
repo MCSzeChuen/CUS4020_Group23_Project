@@ -49,8 +49,8 @@ function getQueryVariable(variable) {
 let author = getQueryVariable("author")
 let play = getQueryVariable("play")
 if (author == false || play == false) {
-    play = "l_ecole_des_femmes"
-    author = "moliere"
+    play = "Joker"
+    author = "joker"
 }
 
 let query_string = "author=" + author + "&play=" + play
