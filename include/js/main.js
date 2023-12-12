@@ -2,9 +2,9 @@
 
 // Play scaling factors...
 const scaling_for = {
-    "author=joker&play=Joker": 2,
-    "author=disney&play=testing_test": 1.7,
     "author=moliere&play=l_avare": 2,
+    "author=joker&play=Joker": 1.8,
+    "author=disney&play=testing_test": 2,
     // "author=disney&play=test_script_v8": 1.8,
     // "author=moliere&play=l_avare": 2,
     // "author=moliere&play=l_ecole_des_femmes": 1.8,
@@ -49,8 +49,8 @@ function getQueryVariable(variable) {
 let author = getQueryVariable("author")
 let play = getQueryVariable("play")
 if (author == false || play == false) {
-    play = "Joker"
-    author = "joker"
+    play = "l_avare"
+    author = "moliere"
 }
 
 let query_string = "author=" + author + "&play=" + play
